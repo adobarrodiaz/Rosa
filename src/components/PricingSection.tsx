@@ -94,7 +94,7 @@ export default function PricingSection() {
             Sesiones, bonos y <span className="italic text-gradient-gold">packs</span>
           </h2>
           <p className="reveal reveal-delay-2 mt-5 text-sm md:text-base text-muted-foreground font-light">
-            C/ Nieremberg 1 · Cita previa por WhatsApp 618 420 464
+            C/ Nieremberg 1 · Cita previa por WhatsApp 619 420 464
           </p>
         </div>
 

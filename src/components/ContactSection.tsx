@@ -40,13 +40,13 @@ export default function ContactSection() {
               <div>
                 <h3 className="font-heading text-lg mb-1">Teléfono</h3>
                 <a
-                  href="tel:+34618420464"
+                  href="tel:+34619420464"
                   className="text-sm text-muted-foreground font-light hover:text-primary transition-colors duration-300"
                 >
-                  +34 618 420 464
+                  +34 619 420 464
                 </a>
                 <a
-                  href="https://wa.me/34618420464"
+                  href="https://wa.me/34619420464"
                   target="_blank"
                   rel="noreferrer"
                   className="block text-xs tracking-widest uppercase text-primary mt-2 hover:text-gold-light transition-colors duration-300"

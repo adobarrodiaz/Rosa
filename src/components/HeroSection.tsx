@@ -57,7 +57,7 @@ export default function HeroSection() {
             ))}
           </div>
           <span className="text-sm text-muted-foreground ml-2">
-            Cita previa por WhatsApp · 618 420 464
+            Cita previa por WhatsApp · 619 420 464
           </span>
         </div>
       </div>

@@ -24,7 +24,7 @@ export default function CtaSection() {
           Tu momento de calma y transformacion te esta esperando en Maria Rosa
         </p>
         <a
-          href="https://wa.me/34618420464"
+          href="https://wa.me/34619420464"
           target="_blank"
           rel="noreferrer"
           className="reveal reveal-delay-2 inline-flex px-12 py-4 bg-primary text-primary-foreground text-sm tracking-widest uppercase font-medium hover:bg-gold-light transition-colors duration-300"

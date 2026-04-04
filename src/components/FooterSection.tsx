@@ -14,10 +14,10 @@ export default function FooterSection() {
             <h4 className="text-xs tracking-widest uppercase text-muted-foreground mb-4">Contacto</h4>
             <div className="space-y-2 text-sm font-light">
               <p className="text-foreground">C/ Nieremberg 1</p>
-              <a href="tel:+34618420464" className="block text-muted-foreground hover:text-primary transition-colors duration-300">
-                +34 618 420 464
+              <a href="tel:+34619420464" className="block text-muted-foreground hover:text-primary transition-colors duration-300">
+                +34 619 420 464
               </a>
-              <a href="https://wa.me/34618420464" target="_blank" rel="noreferrer" className="block text-muted-foreground hover:text-primary transition-colors duration-300">
+              <a href="https://wa.me/34619420464" target="_blank" rel="noreferrer" className="block text-muted-foreground hover:text-primary transition-colors duration-300">
                 WhatsApp directo
               </a>
             </div>
